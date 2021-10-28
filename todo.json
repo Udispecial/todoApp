@@ -1,0 +1,11 @@
+{
+    "read": {
+        "completed": true
+    },
+    "pray": {
+        "completed": true
+    },
+    "eat": {
+        "completed": false
+    }
+}
